@@ -7,3 +7,11 @@
 
 3) init 모듈
    - 패기지를 import 할 때 바로 사용할 수 있도록 주요 기능들을 묶어주는 초기화 파일입니다.
+
+4) 패키지 구조
+   ```
+   pl-project-main
+   ㄴcalculator.py
+   ㄴ__init__
+   ㄴtext_tools
+   ```
